@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @htmanelski
-- 👀 I’m interested in Mars geology and geography; particularly impact craters, river valleys, and mid-latitude glaciers.
-- 🌱 I’m currently learning mineraology and spectroscopy
-- 💞️ I’m looking to collaborate on Mars geology projects using python
-- 📫 How to reach me: My email is htm2111@columbia.edu
+- 👋 Hi, I’m @htmanelski. I am a PhD student at Purdue University.
+- 👀 I’m interested in spectroscopy and its applications to planetary science. Specifically, I use Laser Induced Breakdown Spectroscopy (LIBS) and passive VNIR spectroscopy to study the surface of Mars as a member of the SuperCam science team. 
+- 🌱 I’m currently learning more about geochemistry, mineraology, and astrobiology
+- 📫 How to reach me: My email is hmanelsk@purdue.edu
 
 <!---
 htmanelski/htmanelski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
